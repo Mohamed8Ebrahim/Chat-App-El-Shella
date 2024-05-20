@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088245830395",
+    "project_id": "el-shela-a3b1b",
+    "storage_bucket": "el-shela-a3b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088245830395:android:725c7994ec92d5b8e3965e",
+        "android_client_info": {
+          "package_name": "com.example.el_shela"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PnAzml1E92boKhoq9lvVUXc-WCUFIKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
